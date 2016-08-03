@@ -84,7 +84,7 @@ Please see our [guidelines](CONTRIBUTING.md) for contributing to the driver.
 * Robert Stam               robert@mongodb.com
 * Craig Wilson              craig.wilson@mongodb.com
 
-### Contributors (in alphabetical order):
+### Contributors:
 * Bit Diffusion Limited     code@bitdiff.com
 * Alex Brown                https://github.com/alexjamesbrown
 * Justin Dearing            zippy1981@gmail.com
